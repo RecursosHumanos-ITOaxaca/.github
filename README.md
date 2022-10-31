@@ -80,8 +80,6 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JSON%20Web%20Tokens-323330?style=plastic&logo=json-web-tokens&logoColor=pink"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"></a>
