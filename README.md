@@ -65,11 +65,11 @@
   &emsp;
     <a href="https://www.postgresql.com/"><img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"></a>  
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-ED8B00?style=plastic&logo=amazon-aws&logoColor=white"></a>  
   &emsp;
     <a href="#"><img alt="GC" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white"></a>  
  </p>
@@ -90,7 +90,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=plastic&logo=eslint&logoColor=white"></a>
+    <a href="#"><img alt="Eslint" src="https://img.shields.io/badge/Eslint-3A33D1?style=plastic&logo=eslint&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=whit"></a>
   &emsp;
