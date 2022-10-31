@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Proyecto de Residencia: <i>Plataforma de Recursos Humanos</i></h1>
+<h1 align="center">Proyecto: <i>Plataforma de Recursos Humanos</i></h1>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -9,7 +9,9 @@
 
 ## Información
 
-### 🛠️ Lenguajes de programación
+<p>Este proyecto y cualquier fragmento contenido dentro de los repositorios se encuentran bajo la licencia GPL License (aka GNU General Public License v3.0)</p>
+
+## 🛠️ Lenguajes de programación
 
 <p align="left">
   &emsp;
@@ -22,7 +24,7 @@
    </a>
 </p>
 
-### ⚙️ Tecnologías y dependencias Backend
+## ⚙️ Tecnologías y dependencias Backend
 <p align="left">
   &emsp;
    <a href="https://spring.io/projects/spring-boot" target="_blank">
@@ -38,7 +40,7 @@
   </a>   
 </p>
 
-### 💻 Tecnologías y dependencias Frontend
+## 💻 Tecnologías y dependencias Frontend
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -58,7 +60,7 @@
   </a>
 </p>
 
-### ☁️ Bases de datos & Servicios de host
+## ☁️ Bases de datos & Servicios de host
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-07405E?style=plastic&logo=mysql&logoColor=white"></a>
@@ -74,7 +76,7 @@
     <a href="#"><img alt="GC" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white"></a>  
  </p>
   
- ### 🔧 Software & Herramientas
+ ## 🔧 Software & Herramientas
  
 <p>
   &emsp;
